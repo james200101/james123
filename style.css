@@ -1,0 +1,79 @@
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #304438;
+}
+
+.btn{
+    padding: 12px 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 0;
+
+    
+}
+
+.btn{
+    background-color: #222722;
+    color: #fff
+}
+
+.btn-brand:hover{
+    border: 2px solid color #304438
+
+    ;
+}
+
+.navbar .nav-link{
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+color: #0d3b1f;
+text-transform: uppercase;
+
+}
+
+#banner{
+    background: url('James.png');
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#banner h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #1c1919;
+}
+
+#banner p{
+    font-size: 20px;
+    color: #080813;
+}
+
+section{
+    padding: 20px 0 ;
+}
+
+.card-image-top {
+    width: 40%;
+}
+
+.card {
+    border-radius: 0;
+    margin-top: 20px;
+    border: 3px solid #1c1919;
+    padding: 20px;
+
+}
+
+.card .card-title {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+#Rannille h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
